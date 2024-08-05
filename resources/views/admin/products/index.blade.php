@@ -1,0 +1,3 @@
+<div>
+    Products index
+</div>
